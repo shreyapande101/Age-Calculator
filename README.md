@@ -1,2 +1,22 @@
-This is the simple age calculator project made with using HTML,CSS AND JAVA SCRIPT. You only have to pick your date of birth in the calendar and click on the calculate button then
-it will shows your exact age with year month and no of days.
+# Simple Age Calculator 
+
+A clean and simple **Age Calculator** web app built using **HTML, CSS, and JavaScript**.  
+It helps you calculate your exact age based on your date of birth.
+
+---
+ Features
+- Easy to use date picker
+- Calculates age accurately
+---
+  Lang Used
+
+- HTML
+- CSS
+- JavaScript
+---
+ How It Works
+1. Select your **date of birth** from the calendar.
+2. Click on the **Calculate** button.
+3. The app shows your **exact age**.
+
+
